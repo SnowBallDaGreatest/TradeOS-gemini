@@ -1,4 +1,3 @@
-# TradeOS-gemini
 # Local Auth0 Dev (hosts + TLS)
 
 This README explains how to run the local Auth0 Flask backend so OAuth redirects use `http://localhost:3000/` while running the server on your machine.
